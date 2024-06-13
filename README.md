@@ -1,5 +1,10 @@
 # Frequent Item Set Mining
 
-- Implemented two scalable Spark solutions to mine E-commerce transaction logs for monthly consumer trends, using both RDD and DataFrame APIs for analysis
-- Applied data analysis to calculate item set support ratios, informing strategic inventory and marketing decisions
-- Delivered actionable insights for optimization and improving inventory management
+- Scalable Spark Solutions:
+  - Implemented two scalable Spark solutions to analyze E-commerce transaction logs using both RDD and DataFrame APIs.
+  - Designed and executed efficient data mining workflows to process large volumes of transaction data.
+- Data Analysis for Consumer Trends:
+  - Applied data analysis techniques to calculate item set support ratios, providing insights into monthly consumer trends.
+- Actionable Insights and Optimization:
+  - Delivered actionable insights based on the analysis to improve inventory management and marketing strategies.
+  - Enabled data-driven decision-making processes, enhancing overall efficiency and profitability.
